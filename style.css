@@ -283,7 +283,7 @@ padding: 20px 240px;
   gap: 80px;
 }
 .extra-section img{
-width: 200px;
+width: 300px;
 }
 .extra-section .text-content{
  
@@ -301,6 +301,7 @@ width: 200px;
   color: deeppink;
 }
 .text-content p{
+  padding-top: 20px;
   text-align: center;
   color: white;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -388,7 +389,7 @@ footer{
   align-items: center;
   justify-content: center;
   background: #111010;}
-
+/*
  .footer-content{
   padding: 50px 240px;
   width: 50%;
@@ -396,9 +397,10 @@ footer{
   font-family: 'Lato', sans-serif;
   
  }
+ */
  .footer-content h1{
   text-align: center;
-  padding: 10px 0;
+  padding: 20px 0;
   color: white;
  }
  .footer-content h1 span{
@@ -413,9 +415,9 @@ footer{
  .footer-title p{
   width: 50%;
   text-align: center;
-  padding: 20px 0;
+  padding: 10px 0;
  }
-    footer small{
+    .footer-content{
  padding: 0 35%;
      text-align: center;
       color: rgba(255, 255, 255, 0.40);
